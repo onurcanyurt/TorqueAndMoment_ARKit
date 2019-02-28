@@ -1,6 +1,6 @@
 # TorqueAndMoment_ARKit
 
-<b>Uygulamada tork ve momentin ARKit uygulamalarında nasıl kullanılabileceği temel anlamda kullanılmıştır.</b>
+<b>Uygulamada, dönme momentinin(Tork) ARKit uygulamalarında nasıl kullanılabileceği belirtilmiştir.</b>
 
 Basically The torque specification they give is the maximum torque of the internal-combustion engine, 
 which is usually a higher value than the actual torque on the wheels. </br>
