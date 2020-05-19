@@ -1,4 +1,4 @@
-# TorqueAndMoment_ARKit
+# Torque & Moment with ARKit
 
 <b>Uygulamada, dönme momentinin(Tork) ARKit uygulamalarında nasıl kullanılabileceği belirtilmiştir.</b>
 
